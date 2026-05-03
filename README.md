@@ -1,116 +1,116 @@
-# 100-days-of-java
-<!-- 🌌 TOP 1% README — CLEAN + POWERFUL (NO NOTES STYLE) -->
 
-<h1 align="center">🚀 100 Days of Java</h1>
+<h1 align="center">☕ Java Learning Journey</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=100+Days+of+Java;Code.+Commit.+Repeat.;No+Zero+Days;Discipline+%3E+Motivation" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Learning+Java+Step+by+Step;Code.+Build.+Improve.;Consistency+Over+Motivation;Becoming+a+Better+Developer" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Consistency-Daily-0A0A0A?style=for-the-badge&logo=github&logoColor=00F7FF" />
-  <img src="https://img.shields.io/badge/Challenge-100%20Days-0A0A0A?style=for-the-badge&logo=java&logoColor=00F7FF" />
   <img src="https://img.shields.io/badge/Focus-Java-0A0A0A?style=for-the-badge&logo=openjdk&logoColor=00F7FF" />
+  <img src="https://img.shields.io/badge/Type-Learning%20Repo-0A0A0A?style=for-the-badge&logo=github&logoColor=00F7FF" />
+  <img src="https://img.shields.io/badge/Status-Active-0A0A0A?style=for-the-badge&logo=git&logoColor=00F7FF" />
 </p>
 
 ---
 
-## ⚡ About
+## ⚡ About This Repository
 
-This repository tracks my **100-day journey of learning and practicing Java**.
+This repository documents my **ongoing journey of learning Java through consistent practice and real coding**.
 
-No tutorials spam.
-No unnecessary theory dumps.
+There’s no fixed deadline or challenge limit —
+just continuous improvement and daily effort.
 
-Just **pure code, every single day**.
-
-> 🎯 The goal is simple:
-> Build discipline, strengthen fundamentals, and prove consistency through daily commits.
+> 🎯 Goal: Build strong fundamentals and grow into a confident developer.
 
 ---
 
-## 📊 Progress
+## 📊 Progress Tracker
 
 <!--START_SECTION:progress-->
 
-🚧 Starting strong...
+🚧 Building consistently...
 
 <!--END_SECTION:progress-->
+
+<p align="center">
+  <img src="https://progress-bar.dev/5/?title=Learning%20Progress&width=500&color=00F7FF" />
+</p>
 
 ---
 
 ## 🗂️ Structure
 
-```text id="l0k3hz"
-Day-01-Introduction-to-Java
-Day-02-Variables-and-DataTypes
-Day-03-User-Input
+```text id="7q2qpr"
+01-Introduction
+02-Variables
+03-User-Input
 ...
-Day-100
 ```
 
 Each folder contains:
 
-* 💻 Java code only
-* ⚡ Focused practice
-* 🚀 Real progress (no filler)
+* 💻 Java code
+* ⚡ Practical implementations
+* 🚀 Real learning progress
+
+---
+
+## 🧠 What I'm Focusing On
+
+* ☕ Core Java fundamentals
+* 🔁 Control flow & logic building
+* 📦 Object-Oriented Programming
+* 🧩 Problem solving
+* ⚙️ Writing clean and readable code
 
 ---
 
 ## 🔥 Philosophy
 
-* No zero days
-* Small progress > no progress
-* Consistency over intensity
-* Learn → Code → Commit → Repeat
+* No unnecessary theory
+* Code > Consume
+* Small steps every day
+* Consistency beats intensity
 
 ---
 
-## 🎯 What This Shows
-
-This repo is built to demonstrate:
-
-* 📈 Daily consistency
-* 🧠 Problem-solving ability
-* 💻 Hands-on coding practice
-* 🔁 Long-term discipline
-
----
-
-## 💻 Tech Stack
+## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,git,github,vscode,idea" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📅 End Goal
+## 🎯 Long-Term Vision
 
-By Day 100, I aim to have:
-
-* Strong Java fundamentals
-* Confidence in writing clean code
-* Improved logical thinking
-* A solid base for backend development
+* Build strong programming fundamentals
+* Move into Data Structures & Algorithms
+* Explore Backend Development
+* Contribute to real-world projects
 
 ---
 
-## 🌟 Why This Repo Stands Out
+## 🌟 Why This Repo
 
-Most repositories show **what someone knows**.
-This one shows **how someone improves**.
+This repository isn’t just about what I know —
+it reflects **how I improve over time**.
 
 ---
 
 ## ⭐ Support
 
-If you respect consistency:
+If you find this journey useful or motivating:
 
 * ⭐ Star the repo
-* 👀 Follow the journey
+* 👀 Follow the progress
 
 ---
+
+<p align="center">
+  ⚡ "Great developers aren’t built in a day — they’re built daily."
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,100:00F7FF&height=100&section=footer"/>
