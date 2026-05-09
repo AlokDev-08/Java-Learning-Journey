@@ -24,9 +24,7 @@ just continuous improvement and daily effort.
 
 ---
 
-## 📊 Progress Tracker
 
-<!--START_SECTION:progress-->
 
 🚧 Building consistently...
 
