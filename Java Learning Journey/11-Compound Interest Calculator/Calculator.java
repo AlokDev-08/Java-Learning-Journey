@@ -6,7 +6,7 @@ public class Calculator {
 
         double principal;
         double rate;
-        int timesCompounded;
+        int timesCompounded;  
         int years;
         double totalAmount;
 
