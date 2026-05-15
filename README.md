@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Learning+Java+Step+by+Step;Code.+Build.+Improve.;Consistency+Over+Motivation;Becoming+a+Better+Developer" />
 </p>
 
-<p align="center">
+<p align="center"> 
   <img src="https://img.shields.io/badge/Focus-Java-0A0A0A?style=for-the-badge&logo=openjdk&logoColor=00F7FF" />
   <img src="https://img.shields.io/badge/Type-Learning%20Repo-0A0A0A?style=for-the-badge&logo=github&logoColor=00F7FF" />
   <img src="https://img.shields.io/badge/Status-Active-0A0A0A?style=for-the-badge&logo=git&logoColor=00F7FF" />
