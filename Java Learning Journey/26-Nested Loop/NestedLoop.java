@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class NestedLoop {
     public static void main(String[] args) {
-
+ 
 //        nested loop = A loop inside another loop
 //                      Used often with matrices or DSA
 
