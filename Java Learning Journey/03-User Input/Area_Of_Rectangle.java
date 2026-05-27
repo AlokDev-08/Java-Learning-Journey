@@ -12,7 +12,7 @@ public class Area_Of_Rectangle {
         System.out.print("Enter the height of the rectangle: ");
         height =sc.nextDouble();
         System.out.print("Enter the width of the rectangle: ");
-        width =sc.nextDouble();
+        width =sc.nextDouble();   
 
         area = height*width;
         System.out.println("The Area of Rectangle is "+area+" cm².");
