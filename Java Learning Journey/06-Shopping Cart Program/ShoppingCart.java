@@ -11,7 +11,7 @@ public class ShoppingCart {
 
         Scanner sc = new Scanner(System.in);
 
-        System.out.print("What item would you like to buy?: ");
+        System.out.print("What item would you like to buy?: ");       
         item = sc.nextLine();
         System.out.print("What is the price for each?: ");
         price = sc.nextDouble();
