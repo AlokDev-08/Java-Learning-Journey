@@ -5,7 +5,7 @@ public class Area_Of_Rectangle {
         //    Calculate Area of rectangle
         Scanner sc = new Scanner(System.in);
 
-        double height;
+        double height;  
         double width;
         double area;
 
