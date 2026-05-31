@@ -3,7 +3,7 @@ public class ShoppingCart {
     public static void main(String[] args) {
       
 //        Shopping Cart Program
-
+  
         String item ;
         double price;
         double quantity;
